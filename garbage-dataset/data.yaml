@@ -1,0 +1,15 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: garbage-classify-9ndxx
+  url: https://universe.roboflow.com/thai-pham-y5sob/garbage-classify-9ndxx/dataset/2
+  version: 2
+  workspace: thai-pham-y5sob
+test: ../test/images
+train: garbage-classify-2/train/images
+val: garbage-classify-2/valid/images
